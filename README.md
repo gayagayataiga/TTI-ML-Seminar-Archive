@@ -1,2 +1,35 @@
-# TTI-ML-Seminar-Archive
-This repository contains a summary of the Machine Learning Seminar activities at Toyota Technological Institute.
+# 豊田工業大学 機械学習勉強会 アーカイブ (TTI-ML-Seminar-Archive)
+
+このリポジトリは、[豊田工業大学](https://www.toyota-ti.ac.jp/)で実施されている機械学習勉強会の活動内容をまとめたものです。
+
+## 📖 このリポジトリについて
+
+このリポジトリは、勉強会で発表された内容のサマリー、資料、コードなどをアーカイブすることを目的としています。
+過去の勉強会の内容を振り返ったり、参加できなかった回の内容を確認したりするためにご活用ください。
+
+## 📂 ディレクトリ構成
+
+各年度のディレクトリ内に、開催日とトピックごとの資料が格納されています。
+
+```
+.
+├── 2023/ # 開催年
+│   ├── 2023-10-26_Topic-A/ # 開催日_トピック
+│   │   ├── summary.md      # 発表サマリー
+│   │   └── slide.pdf       # (任意) 発表スライド
+│   └── ...
+└── 2024/
+    └── ...
+```
+
+## ✍️ コントリビューション
+
+このリポジトリへのコントリビューションを歓迎します！
+発表内容のサマリーの追加や、既存内容の修正など、お気軽にPull Requestをお送りください。
+
+## 📜 ライセンス
+
+このリポジトリのコンテンツは、特定のライセンスが指定されていない限り、リポジトリの管理者に著作権が帰属します。(ライセンスを設定する場合は、[MIT License](LICENSE) のようなオープンソースライセンスを追記することをお勧めします。)
+
+---
+*This repository contains a summary of the Machine Learning Seminar activities at Toyota Technological Institute.*
